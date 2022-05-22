@@ -1,0 +1,77 @@
+.container {
+	display: grid;
+	justify-content: center;
+	grid-template-columns: repeat(auto-fill, 300px);
+
+	gap: 60px;
+
+	width: 60vw;
+
+	margin: 30px auto;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+
+	color: #fff;
+	text-align: center;
+	line-height: 3rem;
+}
+
+.name,
+.price {
+	font-size: 1.3rem;
+}
+
+.description {
+	height: 80px;
+	width: 300px;
+
+	line-height: normal;
+}
+
+.btn {
+	color: #fff;
+	font-size: 1rem;
+	font-weight: 700;
+	text-transform: uppercase;
+
+	cursor: pointer;
+
+	background: none;
+
+	border: 1px solid #f4cf2a;
+	border-radius: 10px;
+
+	width: 140px;
+
+	padding: 10px;
+
+	margin: 0 auto;
+	margin-top: 5px;
+}
+
+.btn:hover {
+	color: #000;
+	background: #f4cf2a;
+}
+
+.cart {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	position: fixed;
+	bottom: 2vh;
+	right: 1vw;
+
+	cursor: pointer;
+
+	background: #f4cf2a;
+
+	height: 40px;
+	width: 40px;
+
+	border-radius: 50%;
+}

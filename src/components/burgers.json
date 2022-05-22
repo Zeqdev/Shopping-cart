@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "Classic burger",
+		"description": "Pan brioche, doble carne, doble queso cheddar, tomate, lechuga, cebolla, ketchup y mayonesa.",
+		"img": "../assets/classic.jpeg",
+		"price": 830,
+		"quantity": 1
+	},
+	{
+		"id": 2,
+		"name": "Cheese burger",
+		"description": "Pan brioche, doble carne, doble queso cheddar, cebolla y ketchup.",
+		"img": "../assets/cheese.jpeg",
+		"price": 810,
+		"quantity": 1
+	},
+	{
+		"id": 3,
+		"name": "Bacon burger",
+		"description": "Pan brioche, doble carne, doble queso cheddar, bacon, cebolla y ketchup.",
+		"img": "../assets/bacon.jpeg",
+		"price": 850,
+		"quantity": 1
+	},
+	{
+		"id": 4,
+		"name": "American burger",
+		"description": "Pan brioche, doble carne, doble queso cheddar, tomate, lechuga, cebolla, bacon, pepinillos y BBQ.",
+		"img": "../assets/american.jpeg",
+		"price": 870,
+		"quantity": 1
+	},
+	{
+		"id": 5,
+		"name": "Deluxe burger",
+		"description": "Pan brioche, doble carne, doble queso cheddar, tomate, lechuga, cebolla, bacon, pepinillos y salsa John's.",
+		"img": "../assets/deluxe.jpeg",
+		"price": 880,
+		"quantity": 1
+	},
+	{
+		"id": 6,
+		"name": "Chicken burger",
+		"description": "Pan brioche, hamburguesa de pollo, tomate, lechuga y mayonesa.",
+		"img": "../assets/chicken.jpeg",
+		"price": 820,
+		"quantity": 1
+	},
+	{
+		"id": 7,
+		"name": "Stacker extreme",
+		"description": "Pan brioche, triple carne, triple queso cheddar, bacon y salsa John's.",
+		"img": "../assets/stacker.jpeg",
+		"price": 930,
+		"quantity": 1
+	},
+	{
+		"id": 8,
+		"name": "Veggie burger",
+		"description": "Pan brioche, hamburguesa de vegetales, doble cheddar, tomate, lechuga, cebolla, ketchup y mayonesa.",
+		"img": "../assets/veggie.jpeg",
+		"price": 870,
+		"quantity": 1
+	},
+	{
+		"id": 9,
+		"name": "Johnny kids",
+		"description": "Pan brioche, carne y doble queso cheddar.",
+		"img": "../assets/johnny.jpeg",
+		"price": 900,
+		"quantity": 1
+	}
+]
